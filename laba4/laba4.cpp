@@ -12,6 +12,7 @@ int main() {
 
 	string str;
 
+
 nachalo:
 	cout << "Введите строку: ";
 	getline(cin, str);
